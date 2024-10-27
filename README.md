@@ -15,7 +15,7 @@ This web app simply take a disease image using a web interface and give the dise
     - 🍴 Fork this repo!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine using https://github.com/denilDG/skin-disease-detection-edge.git
+    - 👯 Clone this repo to your local machine using https://github.com/kowsik-dharsan/skin-disease-prediction-edge.git
 
 #### Prerequisite 2
 First make sure that you have installed the anaconda.<br />
