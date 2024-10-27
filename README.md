@@ -119,7 +119,7 @@ It will give the result as shown in below picture:-
 
 ## Comparision
 
-Comparision of ***Time taken for prediction*** Skin disease detection at edge with normal skin disease detection system (https://github.com/denilDG/skin-disease-detection).
+Comparision of ***Time taken for prediction*** Skin disease detection at edge with normal skin disease detection system (https://github.com/kowsik-dharsan/skin-disease-prediction).
 
 #### Skin Disease Detection using tensorflow weight files
 ![Skin_Disease](media/SkinDisease.png)<br /> <br />
